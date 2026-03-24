@@ -1,1 +1,1 @@
-# numpy-using-python-with-data-science
+# numpy-and-pandas-using-python-with-data-science
